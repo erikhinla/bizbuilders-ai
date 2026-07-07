@@ -1,0 +1,6 @@
+{
+  "name": "bizbuilders-ai",
+  "private": true,
+  "type": "module",
+  "description": "BizBuilders AI site with ArVA voice diagnostic bridge"
+}
